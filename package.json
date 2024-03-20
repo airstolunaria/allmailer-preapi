@@ -1,0 +1,31 @@
+{
+  "name": "allmailer-preapi",
+  "version": "1.0.0",
+  "description": "Integrate AllMailer with pre-API integrations for seamless email management.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/airstolunaria/allmailer-preapi"
+  },
+  "author": "airstolunaria",
+  "license": "MIT",
+  "dependencies": {
+    "allmailer-preapi": "1.0.0",
+    "allmailer-preapi-integrity": "1.0.0",
+    "socket.io": "1.0.0",
+    "ejs": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "async": "1.0.0",
+    "cors": "1.0.0",
+    "ethereumjs-tx": "1.0.0",
+    "pg": "1.0.0",
+    "body-parser": "1.0.0",
+    "web3-utils": "1.0.0",
+    "debug": "1.0.0",
+    "jest": "1.0.0",
+    "ganache-cli": "1.0.0"
+  }
+}
